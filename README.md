@@ -15,3 +15,5 @@
 `simple-create-react init projectName` 拉取模板进行初始化
 
 # 效果
+
+项目生成后就可以看见皮卡丘啦！
