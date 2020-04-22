@@ -17,3 +17,4 @@
 # 效果
 
 项目生成后就可以看见皮卡丘啦！
+![pika](https://github.com/oniya24/simple-craete-react-cli/blob/master/result.png)
