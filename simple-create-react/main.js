@@ -10,14 +10,14 @@ const ora = require('ora');
 const chalk = require("chalk");
 const { runInstall } = require('./utils/npmInstall');
 const { queryArr } = require('./utils/inquirerArr');
-const { projectSuccess,noPackageJSON,pullFailed,queryError} = require('./utils/outputFunc');
+const { projectSuccess,noPackageJSON,pullFailed,queryError,info} = require('./utils/outputFunc');
 
-const version = '1.2.1'
+const version = '1.2.3'
 program
     .command("info")
     .description("描述包")
     .action(()=>{
-        console.log("包描述");
+        info();
     })
 
 program

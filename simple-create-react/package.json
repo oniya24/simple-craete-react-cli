@@ -1,7 +1,7 @@
 {
   "name": "simple-create-react",
-  "version": "1.2.1",
-  "description": "提供了简易的基于webpack的简易的react项目开发环境，通过init projectName 快速生成项目，内置antd babel，可选axios react-router-dom ",
+  "version": "1.2.3",
+  "description": "提供了简易的基于webpack的简易的react项目开发环境，通过init projectName 快速生成项目，内置antd babel，可选axios react-router-dom redux react-redux ",
   "bin": {
     "simple-create-react": "./main.js"
   },
